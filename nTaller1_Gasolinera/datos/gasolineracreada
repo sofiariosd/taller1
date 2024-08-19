@@ -1,0 +1,15 @@
+tipo:diesel:30000:28.0
+tipo:disel:3000:30.0
+tipo:extra:20000:20.0
+tipo:corriente:20:2000.0
+tipo:corriente 2:20000:30.0
+surtidor:sky:diesel:0.0:disel:0.0:extra:0.0:corriente:0.0:corriente 2:0.0
+surtidor:bob:diesel:0.0:disel:0.0:extra:0.0:corriente:0.0:corriente 2:0.0
+surtidor:bob:diesel:2.0:disel:0.0:extra:0.0:corriente:0.0:corriente 2:0.0
+surtidor:sky:diesel:0.0:disel:0.0:extra:0.0:corriente:0.0:corriente 2:0.0
+empleado:sky:0
+empleado:1:0
+empleado:bob:60000
+empleado:camilo:0
+empleado:andrea:0
+empleado:juan:0
